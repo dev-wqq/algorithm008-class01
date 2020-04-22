@@ -9,6 +9,8 @@
 ## TODO:完成第一遍刷题，待看完视频后，重新做题
 
 class Solution(object):
+
+    # [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
     def intersect(self, nums1, nums2):
         """
         :type nums1: List[int]
@@ -35,6 +37,7 @@ class Solution(object):
 
 
 class Solution2(object):
+    # [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
     def isSubsequence(self, s, t):
         """
         :type s: str
@@ -60,6 +63,7 @@ class Solution2(object):
 
 
 class Solution3(object):
+    # [面试题 17.09. 第 k 个数](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/)
     def getKthMagicNumber(self, k):
         """
         :type k: int
