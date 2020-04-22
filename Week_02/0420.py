@@ -9,7 +9,6 @@
 # Day 7 https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
 
 class Solution(object):
-
     # For 4.20
 
     # [299. 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/)
